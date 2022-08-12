@@ -8,5 +8,4 @@
   <br><br>
     <img src="gif1.gif" alt="Vidéo du robot" style="width:500px;height:500px;"><img src="gif2.gif" alt="Vidéo du robot" style="width:500px;height:500px;">
 </p>
-![](/gif1.gif)
-![](/gif2.gif)
+
