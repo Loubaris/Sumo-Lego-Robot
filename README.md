@@ -6,6 +6,6 @@
     <br>
     <a href="https://www.codefactor.io/repository/github/loubaris/sumo-lego-robot"><img src="https://www.codefactor.io/repository/github/loubaris/sumo-lego-robot/badge" alt="CodeFactor" /></a>
   <br><br>
-    <img src="gif1.gif" alt="Vidéo du robot" style="width:500px;height:500px;"><img src="gif2.gif" alt="Vidéo du robot" style="width:500px;height:500px;">
+    <img src="gif1.gif" alt="Vidéo du robot" style="width:300px;height:300px;"><img src="gif2.gif" alt="Vidéo du robot" style="width:300px;height:300px;">
 </p>
 
